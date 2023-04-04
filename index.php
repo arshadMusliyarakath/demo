@@ -12,7 +12,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <h1>GitHub Demo Page</h1>
+            <h1 class='php'><?php echo "GitHub Demo Page"; ?></h1>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
